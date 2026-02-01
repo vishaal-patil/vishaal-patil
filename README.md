@@ -36,11 +36,11 @@
 ### 👨‍💻 About Me
 
 ```python
-class DataAnalyst:
+class SDE:
     def __init__(self):
         self.name = "Vishal Mangeshbhai Patil"
-        self.role = "Data Analyst"
-        self.location = "Parola, Maharashtra, India"
+        self.role = "SDE"
+        self.location = "Jalgaon, Maharashtra, India"
         self.email = "vishal19042003@gmail.com"
         
     def get_expertise(self):
@@ -474,7 +474,7 @@ approach:
 <br/><br/>
 
 **💌 Email:** vishal19042003@gmail.com  
-**📍 Location:** Parola, Maharashtra, India  
+**📍 Location:** Jalgaon, Maharashtra, India  
 **💼 Status:** Open to opportunities
 
 <br/>
